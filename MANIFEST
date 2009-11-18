@@ -1,11 +1,7 @@
-Build.PL
 Changes
-MANIFEST
 Makefile.PL
+MANIFEST
 README
+t/TRD-Watch-DB.t
 lib/TRD/Watch/DB.pm
-t/00.load.t
-t/perlcritic.t
-t/pod-coverage.t
-t/pod.t
 META.yml                                 Module meta-data (added by MakeMaker)

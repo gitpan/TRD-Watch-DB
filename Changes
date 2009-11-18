@@ -1,5 +1,5 @@
-Revision history for TRD-Watch-DB
+Revision history for Perl extension TRD::Watch::DB.
 
-0.0.1  Wed Nov  4 13:41:02 2009
-       Initial release.
+0.0.5	2009-11-18
+		First version, released on an unsuspecting world.
 
